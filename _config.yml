@@ -1,6 +1,5 @@
 title:               Celeste
 url:                 https://nicoelayda.github.io
-#baseurl:             "" 
 
 markdown:            kramdown
 highlighter:         rouge
