@@ -5,9 +5,13 @@ truncated_preview: true
 excerpt_separator: <!--more-->
 ---
 
+Improving one's communication skill is one of the frequent questions asked on the internet. People give all sorts of advice that never really works. I found that writing a lot has helped to improve my communication a lot. It forces me to think clearly, notice gaps in my thinking, and make a coherent story.  
+<!--more-->
+
+----
+
 Over time I realised that productivity is not about doing more, scheduling every minute of a day and cramming yourself. It is about doing the fewest things with utmost focus and quality. And, it will compound eventually. 
 
-<!--more-->
 ----
 
 Focusing on one thing is a very long time keeps you in the top 1% in the world. For example, I have seen a person who is building the only Poker for multiple companies around the world for earning. But, the level of details in his approach to building a poker game is way higher. 
