@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My Personal Frameworks
+truncated_preview: true
+excerpt_separator: <!--more-->
 ---
 
 [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
@@ -8,6 +10,7 @@ title: My Personal Frameworks
 Your salary negotiation which routinely takes less than 5 minutes to conclude has an outsized influence on what your compensation is.
 </div>
 
+<!--more-->
 ----
 
 [Why Warren Buffett’s 10/10/10 Rule Will Make You Insanely Successful and Wealthy](https://medium.com/the-mission/why-warren-buffetts-10-10-10-rule-will-help-you-make-smarter-decisions-43d63d5ea124)

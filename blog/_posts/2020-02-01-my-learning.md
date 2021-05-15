@@ -1,10 +1,13 @@
 ---
 layout: post
-title: My Learnings (Continue..)
+title: My Learnings (Continue...)
+truncated_preview: true
+excerpt_separator: <!--more-->
 ---
 
 Over time I realised that productivity is not about doing more, scheduling every minute of a day and cramming yourself. It is about doing the fewest things with utmost focus and quality. And, it will compound eventually. 
 
+<!--more-->
 ----
 
 Focusing on one thing is a very long time keeps you in the top 1% in the world. For example, I have seen a person who is building the only Poker for multiple companies around the world for earning. But, the level of details in his approach to building a poker game is way higher. 
