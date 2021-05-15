@@ -4,6 +4,11 @@ title: My Personal Frameworks
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+"A framework is a particular set of rules, ideas, or beliefs which you use in order to deal with problems or to decide what to do."
+
+Followings are my favourite frameworks:
+
+----
 
 [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 <div class="message">
@@ -29,10 +34,13 @@ The questions are:
 </div>
 
 
---------
+----
 
 [Time is the most expensive commodity in the world](https://www.quora.com/What-is-the-best-thing-your-teacher-ever-told-you/answer/Daniel-Kaplan?fbclid=IwAR1ldVenDWNV-j6aRtYF1gkVP1qVhdp_6eTzpW7IHucMAlxyAbUbYCNY9CQ)
 
 <div class="message">
 Time is the most expensive commodity in the world. You'll find someone who is willing to give you money for your time. It's called a job. At the end of your life, when you've wasted lots of time, try finding someone who will trade you time for your money. It isn't happening. You'll sit there, regretting all of the minutes and even seconds that you wasted.
 </div>
+
+----
+
