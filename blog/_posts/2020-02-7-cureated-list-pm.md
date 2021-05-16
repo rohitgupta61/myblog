@@ -96,3 +96,21 @@ First Principles help us find the way to go when we have no clear evidence. To b
 </div>
 
 ----
+
+[What does a product manager do?](https://www.linkedin.com/pulse/what-does-product-manager-do-rohan-rajiv/)
+
+<div class="message">
+ So, what does a product manager do?: A product manager brings a team of cross functional stakeholders together to build a product that is valuable, usable, feasible.
+</div>
+
+----
+
+[My most valuable retention KPIs](https://lloydmelnick.com/tag/curr/)
+<div class="message">
+When I was at Zynga, I came across a metric that perfectly captures how well you are performing with your existing customers, CURR (current user return rate). CURR is complemented by NURR (new user return rate) and RURR (returning user return rate).
+<div>
+
+
+
+<div class="message">
+<div>
