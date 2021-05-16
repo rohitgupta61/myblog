@@ -11,9 +11,15 @@ To become more productive, I started watching youtube channels like Ali Abdaal, 
 I achieved my productivity mantra when I read One Thing by Garry Keller. It says all great things are achieved by doing one most important things at a time. This resonated me and I implemented it in my routine.
 
 Now, I follow the below steps 
- - Create a list of tasks to be done and give a label based on their urgency and impact. So, each task is tagged with any of the following label: UrgentHighImpact(P1), UrgentLowImpact(P2), NotUrgentHighImpact(P3) and NotUrgentLowImpact(P4). 
- - Do the highest priority task first and the others in priority orders. 
- - Review the list daily: add, edit and delete. 
+ - Create a list of tasks to be done and give a label based on their urgency and impact. So, each task is tagged with any of the following label:
+    - UrgentHighImpact(P1)
+    - UrgentLowImpact(P2)
+    - NotUrgentHighImpact(P3)
+    - NotUrgentLowImpact(P4)
+
+ - Do the highest priority task first and the others in priority orders
+
+ - Review the list daily: add, edit and delete
 
 **My definition of productive is getting important things done.**
 
