@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 
 Investment is tough and boring. That's why most people fail to accumulate wealth. I have been extensively researching this topic and come up with my framework to invest. 
 
+ <!--more-->
 I will give you a framework on how I invest. I will not bombard with n number of options and their comparison. Instead, I will give you specific investment tips and the logic behind them. This article is not sponsored by anyone.
 
 ### My investment principles 
