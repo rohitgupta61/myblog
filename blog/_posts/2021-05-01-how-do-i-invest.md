@@ -18,8 +18,8 @@ I will give you a framework on how I invest. I will not bombard with n number of
  
 ### Portfolio (100% of my investment money)
 - Gold - 5% in Sovereign Gold Bond
-- Cryptocurrency - 5% in Ethereum and Bitcoin equally 
-- Emergency Fund - 6 months of my salary (Saving account 7% interest)
+- Cryptocurrency - 5% in Ethereum and Bitcoin equally (Invest the money which you can afford to lose)
+- Emergency Fund - 6 months of my salary. Keeping it in saving account which 7% interest 
 - Index Fund - 30% UTI Nifty Index Fund
 - Equity Mutual Fund - 40% Parag Parikh Equity Fund 
 - Term Insurance - 28K per annum (If you are a 30-year-old male, a smoker and want a 1 crore life cover for 30 years, you will have to pay 10,000 per year)
