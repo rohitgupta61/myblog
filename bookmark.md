@@ -1,10 +1,7 @@
 ---
-layout: post
-truncated_preview: true
-excerpt_separator: <!--more-->
+layout: page
+title: Bookmark
 ---
-
-<!--more-->
 
 
 ## Product Management 
