@@ -3,7 +3,6 @@ layout: page
 title: Bookmark
 ---
 
-
 ## Product Management 
 
 - [Use this presentation to get your next Product Management job](https://iheartpm.com/use-this-presentation-to-get-your-next-product-management-job-73fe957417b4)
