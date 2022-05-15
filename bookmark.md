@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Bookmarks
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
