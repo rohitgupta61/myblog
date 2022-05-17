@@ -8,7 +8,7 @@ These are my notes from the article.
 
 ---
 
-The Product Manager has only three sets of responsibilities: Strategy, Prioritization & Execution.
+The Product Manager has only three sets of responsibilities: Strategy, Prioritization and Execution.
 
 ## 1. Product Strategy
 
