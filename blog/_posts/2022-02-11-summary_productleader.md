@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Summary] Be a great product leader by Adam Nash
+title: Be a great product leader by Adam Nash
 
 ---
 
