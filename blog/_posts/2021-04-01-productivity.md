@@ -1,12 +1,9 @@
 ---
 layout: post
 title: How to be more productive? 
-truncated_preview: true
-excerpt_separator: <!--more-->
 ---
 
 To become more productive, I started watching youtube channels like Ali Abdaal, Thomas Frank etc who will tell you how to get more things done in a given time. I personally felt this doesn't work for me. 
-<!--more-->
 
 I achieved my productivity mantra when I read One Thing by Garry Keller. It says all great things are achieved by doing one most important things at a time. This resonated me and I implemented it in my routine.
 

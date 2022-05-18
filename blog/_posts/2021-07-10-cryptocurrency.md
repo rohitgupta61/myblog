@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Why you shouldn't invest in the crypto currency?  
-truncated_preview: true
-excerpt_separator: <!--more-->
 ---
 
 Disclaimer - I have invested 1% of my savings into stable cryptocurrencies such as Bitcoin and Ethereum etc. 
-<!--more-->
 
 Let's talk about slot games first. Most of them are designed in such a way that you will win only 49% of the time and the rest 51% of you will lose. So, you have a negative mathematical edge. If you play few slot games, you may earn some money but if you continue playing for a longer duration, you will ultimately lose money. 
 
