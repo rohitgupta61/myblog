@@ -15,7 +15,7 @@ Retention rate is an important metric for success in mobile gaming, and it becom
 
 ## Type of Retention Rates
 
-There are three main types of retention: short-term retention (D1, D2, D3), mid-term retention (D7-30), and long-term retention (D60+).
+There are three main types of retention: short-term retention (D1, D2, D3), mid-term retention (D7-30), and long-term retention (D30+).
 
 Short-Term Retention (D1, D2, D3): Short-term retention is typically the highest, as users are still exploring the game and deciding whether or not to continue playing. Factors that can affect short-term retention include 
 
@@ -29,7 +29,7 @@ Mid-Term Retention (D7, D15, D30): Mid-term retention is crucial for the success
 2. Performance and Stability
 3. Social features that encourage users to engage with other players
 
-Long-Term Retention (D60+): Long-term retention is the most difficult to achieve, as it represents users who have been playing the game for an extended period of time. Factors that can affect long-term retention include 
+Long-Term Retention (D30+): Long-term retention is the most difficult to achieve, as it represents users who have been playing the game for an extended period of time. Factors that can affect long-term retention include 
 
 1. Game's progression
 2. New content and events
@@ -69,3 +69,5 @@ Typically, games that offer more immersive and captivating gameplay and create a
 1. Avoid showing ads during the initial sessions: First impressions are critical in forming user experience and introducing ads too soon may lead to negative emotions, potentially causing players to leave the game prematurely. 
 
 2. Personalized push notifications:  It can improve user retention in games by increasing player engagement and fostering a sense of connection with the game. For example, Zynga Poker utilizes push notifications as a gentle reminder of their league standing and encourages them to strive for a higher rank. It hopes to motivate players to remain engaged and work towards achieving their desired goals. This approach can also help ensure that players remain within the safe zone, allowing them to continue enjoying the game without the fear of being eliminated.
+
+<to be continued>
