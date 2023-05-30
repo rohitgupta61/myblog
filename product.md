@@ -3,11 +3,9 @@ layout: page
 title: Product Management
 ---
 
-## Bookmark 
+Some of the best article I have read on Product Management:
 
 - [Use this presentation to get your next Product Management job](https://iheartpm.com/use-this-presentation-to-get-your-next-product-management-job-73fe957417b4)
-
-
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 
 - [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister)
