@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Product Management
+title: Bookmarks
 ---
 
-### Bookmarks
+### Product Management Bookmarks
 
 Some of the best article I have read on Product Management:
 
