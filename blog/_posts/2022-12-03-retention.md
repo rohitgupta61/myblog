@@ -2,7 +2,7 @@
 layout: post
 truncated_preview: true
 excerpt_separator: <!--more-->
-title: CURR (Percentage of users who are coming back tomorrow)
+title: Retention 101
 
 ---
 
