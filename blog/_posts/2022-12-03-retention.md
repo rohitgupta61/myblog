@@ -1,5 +1,7 @@
 ---
 layout: post
+truncated_preview: true
+excerpt_separator: <!--more-->
 title: Retention in F2P Games	
 ---
 
@@ -10,7 +12,7 @@ Retention rate is an important metric for success in mobile gaming, and it becom
 **Revenue**: Players who stick around longer are more likely to spend money within the game, which can help offset the higher CPI. Retained users are also more likely to engage with in-app ads and make purchases, contributing to the game's revenue stream.
 
 **Virality**: Retained players can also help with user acquisition by recommending the game to their friends and sharing it on social media. This can help reduce the need for expensive advertising campaigns.
-
+<!--more-->
 ---
 
 ## Type of Retention Rates
