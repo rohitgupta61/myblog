@@ -25,7 +25,7 @@ Some of the best article I have read on Product Management:
 
 ### Gaming Bookmarks
 
-Some of the best article I have read on Product Management:
+Some of the best article I have read on Gaming:
 
 - [4 ways Futureplay use mobile video ads to increase monetization](https://mobilefreetoplay.com/4-ways-mobile-video-ads-increase-monetization/)
 - [Understanding the value chain for Mobile Video](https://mobilefreetoplay.com/video-ad-value-chain/)
