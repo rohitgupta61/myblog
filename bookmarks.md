@@ -23,6 +23,7 @@ Some of the best article I have read on Product Management:
 - [What makes a good retention rate?](https://www.adjust.com/blog/what-makes-a-good-retention-rate/)
 - [If less than 30% of players come back to your game on Day 2, fix it or kill it](https://www.gamesindustry.biz/articles/2018-10-23-if-less-than-30-percent-of-players-come-back-to-your-game-on-day-2-kill-it)
 
+----
 
 ### Gaming Bookmarks
 
