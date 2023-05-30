@@ -3,7 +3,7 @@ layout: page
 title: Bookmarks
 ---
 
-### Product Management Bookmarks
+### Product Bookmarks
 
 Some of the best article I have read on Product Management:
 
