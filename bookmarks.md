@@ -20,8 +20,6 @@ Some of the best article I have read on Product Management:
 - [Vanity Metrics vs. Actionable Metrics](https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/)
 - [Intro to Forecasting Lifetime Value for Mobile Apps](https://medium.com/@incipiagabe/intro-to-forecasting-lifetime-value-for-mobile-apps-95ad2761cd38)
 - [How to schedule meetings for programmer](http://paulgraham.com/makersschedule.html)
-- [What makes a good retention rate?](https://www.adjust.com/blog/what-makes-a-good-retention-rate/)
-- [If less than 30% of players come back to your game on Day 2, fix it or kill it](https://www.gamesindustry.biz/articles/2018-10-23-if-less-than-30-percent-of-players-come-back-to-your-game-on-day-2-kill-it)
 
 ----
 
@@ -39,5 +37,7 @@ Some of the best article I have read on Product Management:
 - [How a $10k poker win changed how I think](https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think)
 - [10 questions I wish I’d asked more to turbocharge my career](https://joulee.medium.com/10-questions-i-wish-id-asked-more-to-turbocharge-my-career-afad1b0fa501)
 - [Managing Yourself: How to Calibrate Your Own Strengths and Weaknesses](https://betterhumans.pub/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f)
+- [What makes a good retention rate?](https://www.adjust.com/blog/what-makes-a-good-retention-rate/)
+- [If less than 30% of players come back to your game on Day 2, fix it or kill it](https://www.gamesindustry.biz/articles/2018-10-23-if-less-than-30-percent-of-players-come-back-to-your-game-on-day-2-kill-it)
 
 
