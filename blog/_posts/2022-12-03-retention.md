@@ -6,7 +6,7 @@ title: Retention 101
 
 ---
 
-Studies show that CURR (current user return rate) is the most effective metric for measuring retention. In simple terms, the success of a game relies on the percentage of players today who return tomorrow. Here are a few ways to increase this:
+Studies ([Google](https://medium.com/googleplaydev/why-focusing-on-tomorrow-brings-back-players-in-the-long-run-e57c51bd3481), [Duolingo](https://blog.duolingo.com/growth-model-duolingo/) ) show that CURR (current user return rate) is the most effective metric for measuring retention. In simple terms, the success of a game relies on the percentage of players today who return tomorrow. Here are a few ways to increase this:
 
 1. Social System: People are more likely to return to a game if they have a bond with other players. Give users the option to add friends, play together, send meaningful gifts, join chat groups, and more. The stronger the bond in the game, the higher the retention rate.
 
