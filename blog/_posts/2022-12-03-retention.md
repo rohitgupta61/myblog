@@ -13,6 +13,7 @@ Retention rate is an important metric for success in mobile gaming, and it becom
 
 **Virality**: Retained players can also help with user acquisition by recommending the game to their friends and sharing it on social media. This can help reduce the need for expensive advertising campaigns.
 <!--more-->
+
 ---
 
 ## Type of Retention Rates
@@ -72,4 +73,4 @@ Typically, games that offer more immersive and captivating gameplay and create a
 
 2. Personalized push notifications:  It can improve user retention in games by increasing player engagement and fostering a sense of connection with the game. For example, Zynga Poker utilizes push notifications as a gentle reminder of their league standing and encourages them to strive for a higher rank. It hopes to motivate players to remain engaged and work towards achieving their desired goals. This approach can also help ensure that players remain within the safe zone, allowing them to continue enjoying the game without the fear of being eliminated.
 
-<to be continued>
+to be continued..
