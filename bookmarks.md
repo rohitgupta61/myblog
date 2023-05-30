@@ -39,5 +39,6 @@ Some of the best article I have read on Gaming:
 - [Managing Yourself: How to Calibrate Your Own Strengths and Weaknesses](https://betterhumans.pub/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f)
 - [What makes a good retention rate?](https://www.adjust.com/blog/what-makes-a-good-retention-rate/)
 - [If less than 30% of players come back to your game on Day 2, fix it or kill it](https://www.gamesindustry.biz/articles/2018-10-23-if-less-than-30-percent-of-players-come-back-to-your-game-on-day-2-kill-it)
+- [Retention & First 10 Minutes of the Game](https://medium.com/googleplaydev/why-the-first-ten-minutes-is-crucial-if-you-want-to-keep-players-coming-back-to-your-mobile-game-4a89031b6308)
 
 
