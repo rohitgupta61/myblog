@@ -3,6 +3,8 @@ layout: page
 title: Gaming
 ---
 
+### Bookmarks
+
 Some of the best article I have read on Product Management:
 
 - [4 ways Futureplay use mobile video ads to increase monetization](https://mobilefreetoplay.com/4-ways-mobile-video-ads-increase-monetization/)
