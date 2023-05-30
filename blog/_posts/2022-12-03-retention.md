@@ -6,7 +6,7 @@ title: CURR (Percentage of users who are coming back tomorrow)
 
 ---
 
-Studies show that CURR (current user return rate) is the best metric for measuring retention. In simple words, the performance of a game depends upon the percentage of today's players coming back tomorrow. Following are a few ways to improve this 
+Studies show that CURR (current user return rate) is the most effective metric for measuring retention. In simple terms, the success of a game relies on the percentage of players today who return tomorrow. Here are a few ways to increase this:
 
 1. Social System: People are more likely to return to a game if they have a bond with other players. Give users the option to add friends, play together, send meaningful gifts, join chat groups, and more. The stronger the bond in the game, the higher the retention rate.
 2. Celebrate the Return: Implement a daily reward calendar to incentives players to play daily. You can also provide exclusive content on certain days of the week. 
