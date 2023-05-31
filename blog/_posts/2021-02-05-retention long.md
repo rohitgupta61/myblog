@@ -2,7 +2,7 @@
 layout: post
 truncated_preview: true
 excerpt_separator: <!--more-->
-title: Retention in F2P Games (Long)
+title: Retention in F2P Games
 ---
 
 Retention rate is an important metric for success in mobile gaming, and it becomes even more important as CPI (Cost Per Install) increases due to increased competition. Here are some reasons why:
@@ -64,13 +64,3 @@ Typically, games that offer more immersive and captivating gameplay and create a
 2. Pokemon Go: Pokemon Go is a location-based augmented reality game developed by Niantic that became a global phenomenon when it was released in 2016. One of the key strategies that Niantic used to achieve long-term success with Pokemon Go was the use of limited-time events and challenges that encouraged players to keep coming back to the game. They also leveraged the nostalgia factor of the Pokemon franchise to attract a wide audience and built a sense of community by allowing players to join teams and compete against each other in gym battles.
 
 3. Candy Crush Saga: Candy Crush Saga is a puzzle game developed by King that has consistently been one of the most popular mobile games since its release in 2012. One of the key strategies that King used to achieve long-term success with Candy Crush Saga was the use of addictive gameplay mechanics that kept players engaged for hours. They also leveraged the freemium model to allow players to play for free but offered in-app purchases to speed up gameplay or unlock additional content. Another strategy that helped increase retention rates was the use of social features that allowed players to connect with each other, send each other lives, and compete against each other on leaderboards.
-
---- 
-
-## Simple & Effective Ways to Increase User Retention 
-
-1. Avoid showing ads during the initial sessions: First impressions are critical in forming user experience and introducing ads too soon may lead to negative emotions, potentially causing players to leave the game prematurely. 
-
-2. Personalized push notifications:  It can improve user retention in games by increasing player engagement and fostering a sense of connection with the game. For example, Zynga Poker utilizes push notifications as a gentle reminder of their league standing and encourages them to strive for a higher rank. It hopes to motivate players to remain engaged and work towards achieving their desired goals. This approach can also help ensure that players remain within the safe zone, allowing them to continue enjoying the game without the fear of being eliminated.
-
-to be continued..
