@@ -10,9 +10,9 @@ title: Retention - Current User Return Rate
 Studies ([Google](https://medium.com/googleplaydev/why-focusing-on-tomorrow-brings-back-players-in-the-long-run-e57c51bd3481), [Duolingo](https://blog.duolingo.com/growth-model-duolingo/) ) show that CURR (current user return rate) is the most effective metric for measuring retention. In simple terms, the success of a game relies on the percentage of players today who return tomorrow. Here are a few ways to increase this:
 
 ## Social System 
-- [Multiplayer] Allow users to add friends in the game. Also, send a reminder when any of my friend is playing.
-- [Multiplayer] If a user is inactive, send a PN saying your friends A, B and C are missing you. Give free chips too. 
-- [Multiplayer] Users should be able to talk with each other using chat, emoticons or voice. 
+- Allow users to add friends in the game. Also, send a reminder when any of my friend is playing.
+- If a user is inactive, send a PN saying your friends A, B and C are missing you. Give free chips too. 
+- Users should be able to talk with each other using chat, emoticons or voice. 
 - Allow users (i.e. friends) to compete with each other using a leaderboard of x days. 
 - Allow users to send virtual gifts to their friends.
 
