@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 title: Retention - Current User Return Rate
 
 ---
+ <!--more-->
 
 Studies ([Google](https://medium.com/googleplaydev/why-focusing-on-tomorrow-brings-back-players-in-the-long-run-e57c51bd3481), [Duolingo](https://blog.duolingo.com/growth-model-duolingo/) ) show that CURR (current user return rate) is the most effective metric for measuring retention. In simple terms, the success of a game relies on the percentage of players today who return tomorrow. Here are a few ways to increase this:
 

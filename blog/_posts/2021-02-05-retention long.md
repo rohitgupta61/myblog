@@ -4,7 +4,7 @@ truncated_preview: true
 excerpt_separator: <!--more-->
 title: Retention in F2P Games
 ---
-
+<!--more-->
 Retention rate is an important metric for success in mobile gaming, and it becomes even more important as CPI (Cost Per Install) increases due to increased competition. Here are some reasons why:
 
 **Cost**: A higher retention rate means that players are more likely to keep coming back to the game, reducing the need for expensive user acquisition campaigns. This is especially important when CPI is high, as it can be difficult to acquire new users at a reasonable cost.
@@ -12,7 +12,6 @@ Retention rate is an important metric for success in mobile gaming, and it becom
 **Revenue**: Players who stick around longer are more likely to spend money within the game, which can help offset the higher CPI. Retained users are also more likely to engage with in-app ads and make purchases, contributing to the game's revenue stream.
 
 **Virality**: Retained players can also help with user acquisition by recommending the game to their friends and sharing it on social media. This can help reduce the need for expensive advertising campaigns.
-<!--more-->
 
 ---
 
